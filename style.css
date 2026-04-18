@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background:#0e0e12;
+  color:#f0f0f0;
+  font-family: 'DM Sans', sans-serif;
+  padding:24px 16px;
+}
+
+.card{
+  background:#1a1a22;
+  border-radius:16px;
+  padding:20px;
+  margin-bottom:16px;
+  border:1px solid #2a2a35;
+}
